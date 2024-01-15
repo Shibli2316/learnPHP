@@ -6,4 +6,5 @@ freecodecamp <br>
 laracast <br>
 php docs <br>
 https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- <br>
-traverse media is also one in the list along with codeholic 
+traverse media is also one in the list along with codeholic <br>
+aiming to make my own framework and components 
